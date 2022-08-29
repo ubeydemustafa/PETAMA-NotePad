@@ -3,13 +3,13 @@ package files;
 import java.util.Date;
 
 public class not {
-    String isim;
-    String tanım;
-    Date teslimTarihi;
-    int kazanc;
-    double ilerleme;
-    String gereksinimSeviyesi;
-    Date harcananZaman;
+    private String isim;
+    private String tanım;
+    private Date teslimTarihi;
+    private int kazanc;
+    private double ilerleme;
+    private String gereksinimSeviyesi;
+    private Date harcananZaman;
 
 
 }
