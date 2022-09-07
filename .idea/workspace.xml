@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf7dcdb5-e8a2-4e23-816e-e51e5f25ed27" name="Changes" comment="Temel sınıf oluşturuldu.">
+    <list default="true" id="bf7dcdb5-e8a2-4e23-816e-e51e5f25ed27" name="Changes" comment="Main sınıfı eklendi sırada Constructer yapısını oluşturma var.">
+      <change afterPath="$PROJECT_DIR$/src/files/Not.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/files/not.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/files/not.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/files/not.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +34,29 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="files.main" />
+      <module name="PETAMA-NotePad" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="files.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661525335363</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Main sınıfı eklendi sırada Constructer yapısını oluşturma var.">
+      <created>1661792248539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661792248539</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -68,7 +96,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Temel sınıf oluşturuldu." />
-    <option name="LAST_COMMIT_MESSAGE" value="Temel sınıf oluşturuldu." />
+    <MESSAGE value="Main sınıfı eklendi sırada Constructer yapısını oluşturma var." />
+    <option name="LAST_COMMIT_MESSAGE" value="Main sınıfı eklendi sırada Constructer yapısını oluşturma var." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
